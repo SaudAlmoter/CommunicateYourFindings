@@ -1,6 +1,5 @@
 # # Prosper loans dataset Investigation
 
-## by Marwa Qabeel
 
 
 ## Dataset Overview
